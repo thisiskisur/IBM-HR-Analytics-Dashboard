@@ -203,15 +203,16 @@ Proyek ini dibuat untuk tujuan akademis. Jika Anda ingin berkontribusi atau memb
 
 Proyek ini dibuat untuk tujuan akademis mata kuliah Sistem Media Interaktif. 
 
-**Hak Cipta © 2024 Rizky Surya Alfarizy**
+**Hak Cipta © 2025 Rizky Surya Alfarizy**
 
 ## 📞 Kontak
 
 **Nama:** Rizky Surya Alfarizy  
 **NIM:** 2113221022  
-**Email:** [email@example.com]  
+**Email:** [rizkysuryaalfarizy30@gmail.com]  
 **Jurusan:** Teknik Informatika  
 **Universitas:** Universitas Sangga Buana YPKP Bandung  
+**Portofolio:** https://thisiskisur-portofolio.vercel.app/ 
 
 ## 🙏 Ucapan Terima Kasih
 
