@@ -1,0 +1,12 @@
+name: Project_UAS_IBM_HR_RizkySurya
+title: Project_UAS_IBM_HR_RizkySurya
+username: thisiskisur-ibm-hr-analytics-employee-attrition-performance
+account: thisiskisur-ibm-hr-analytics-employee-attrition-performance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15004927
+bundleId: 10533384
+url: https://thisiskisur-ibm-hr-analytics-employee-attrition-performance.shinyapps.io/Project_UAS_IBM_HR_RizkySurya/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
