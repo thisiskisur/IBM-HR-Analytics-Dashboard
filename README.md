@@ -36,7 +36,7 @@ Dashboard interaktif untuk analisis data Human Resources (HR) IBM yang dibuat me
 
 ## 🚀 Demo Online
 
-**Akses Dashboard:** [https://rizky-alfarizy-hr-dashboard.shinyapps.io/hr-analytics/](https://rizky-alfarizy-hr-dashboard.shinyapps.io/hr-analytics/)
+**Akses Dashboard:** [[https://rizky-alfarizy-hr-dashboard.shinyapps.io/hr-analytics/](https://rizky-alfarizy-hr-dashboard.shinyapps.io/hr-analytics/](https://thisiskisur-ibm-hr-analytics-employee-attrition-performance.shinyapps.io/Project_UAS_IBM_HR_RizkySurya/))
 
 > **Catatan:** Dashboard dapat diakses secara online dan dapat digunakan untuk demo atau presentasi.
 
